@@ -2,6 +2,8 @@ import java.util.*;
 
 public class wordGame {
 	public static void main(String[] args) {
+		
+		System.out.println("Insert the People Number: ");
 		Scanner keyboard = new Scanner(System.in);
 		int peopleNumber = keyboard.nextInt();
 		System.out.println();
